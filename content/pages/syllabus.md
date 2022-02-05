@@ -55,10 +55,39 @@ There may be occasional **_quizzes_** to help you maintain your reading discipli
 There will be **_no final exam_** in the class.  
 Class participation will be factored into your final grade as a plus, minus, or neutral.
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Essays | 80% |
-| Talk | 20% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Essays
+{{< tdclose >}}
+{{< tdopen >}}
+80%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Talk
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 MIT Literature Statement on Plagiarism
 --------------------------------------
@@ -68,31 +97,363 @@ Plagiarism—use of another's intellectual work without acknowledgement—is a s
 Course Calendar
 ---------------
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction: Wordsworth's _Tintern Abbey_ and the idea of design in nature. | &nbsp; |
-| 2 | Carroll, _Alice's Adventures in Wonderland_. The fantasy world of anti-design. | &nbsp; |
-| 3 | Aristotle, _Genesis_. Selections from the Physics. Pattern recognition, narrative and analytical, in nature in the ancient world. | &nbsp; |
-| 4 | Voltaire, _Candide_. The Accidental World. | &nbsp; |
-| 5 | Hume, _Dialogues Concerning Natural Religion_: Three theories of world origins. | &nbsp; |
-| 6 | Hume, _Dialogues_ (cont.): Is the world a Rube Goldberg machine? | &nbsp; |
-| 7 | Paley, _Natural Theology_: Intelligent Design Theory. | Essay 1 due |
-| 8 | Adam Smith, _Wealth of Nations__: S_elf-Organized Complexity? | &nbsp; |
-| 9 | Malthus, _An Essay on the Principle of Population_: Compound Interest in the biological realm. | &nbsp; |
-| 10 | Malthus, _Principle of Population_. | &nbsp; |
-| 11 | Darwin, _On the Origin of Species_. | &nbsp; |
-| 12 | Darwin, _Origin_ (cont.) | &nbsp; |
-| 13 | Darwin, _Origin_ (cont.) | &nbsp; |
-| 14 | Darwin, _Descent of Man_ (selections) | &nbsp; |
-| 15 | Butler, _Erewhon_ or _Over the Range_. | Essay 2 due |
-| 16 | Butler, _Erewhon_ (cont.) | &nbsp; |
-| 17 | Wiener, _God and Golem, Inc._ (selections) | &nbsp; |
-| 18 | Turing and Searle Essays on computers and evolutionary issues | &nbsp; |
-| 19 | Turing, Searle (cont.) | &nbsp; |
-| 20 | Stevenson, _The Strange Case of Dr. Jekyll and Mr. Hyde_. | &nbsp; |
-| 21 |  {{< br >}}{{< br >}} Huxley, _Prolegomena to Evolution and Ethics_. {{< br >}}{{< br >}} Class oral presentations {{< br >}}{{< br >}}  | &nbsp; |
-| 22 | H. G. Wells, _The Time Machine_. | Draft of essay 3 due |
-| 23 |  {{< br >}}{{< br >}} William Gibson, _Neuromancer_. {{< br >}}{{< br >}} Class oral presentations (cont.) {{< br >}}{{< br >}}  | &nbsp; |
-| 24 |  {{< br >}}{{< br >}} William Gibson, _Neuromancer_ (cont.) {{< br >}}{{< br >}} Class oral presentations (cont.) {{< br >}}{{< br >}}  | &nbsp; |
-| 25 |  {{< br >}}{{< br >}} William Gibson, _Neuromancer_ (cont.) {{< br >}}{{< br >}} Class oral presentations (cont.) {{< br >}}{{< br >}}  | &nbsp; |
-| 26 |  {{< br >}}{{< br >}} William Gibson, _Neuromancer_ (cont.) {{< br >}}{{< br >}} Class oral presentations (cont.) {{< br >}}{{< br >}}  | Final version of essay 3 due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction: Wordsworth's _Tintern Abbey_ and the idea of design in nature.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Carroll, _Alice's Adventures in Wonderland_. The fantasy world of anti-design.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Aristotle, _Genesis_. Selections from the Physics. Pattern recognition, narrative and analytical, in nature in the ancient world.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Voltaire, _Candide_. The Accidental World.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Hume, _Dialogues Concerning Natural Religion_: Three theories of world origins.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Hume, _Dialogues_ (cont.): Is the world a Rube Goldberg machine?
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Paley, _Natural Theology_: Intelligent Design Theory.
+{{< tdclose >}}
+{{< tdopen >}}
+Essay 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Adam Smith, _Wealth of Nations__: S_elf-Organized Complexity?
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Malthus, _An Essay on the Principle of Population_: Compound Interest in the biological realm.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Malthus, _Principle of Population_.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Darwin, _On the Origin of Species_.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Darwin, _Origin_ (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Darwin, _Origin_ (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Darwin, _Descent of Man_ (selections)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Butler, _Erewhon_ or _Over the Range_.
+{{< tdclose >}}
+{{< tdopen >}}
+Essay 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Butler, _Erewhon_ (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Wiener, _God and Golem, Inc._ (selections)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Turing and Searle Essays on computers and evolutionary issues
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Turing, Searle (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Stevenson, _The Strange Case of Dr. Jekyll and Mr. Hyde_.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Huxley, _Prolegomena to Evolution and Ethics_.
+
+Class oral presentations
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+H. G. Wells, _The Time Machine_.
+{{< tdclose >}}
+{{< tdopen >}}
+Draft of essay 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+William Gibson, _Neuromancer_.
+
+Class oral presentations (cont.)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+William Gibson, _Neuromancer_ (cont.)
+
+Class oral presentations (cont.)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+William Gibson, _Neuromancer_ (cont.)
+
+Class oral presentations (cont.)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+William Gibson, _Neuromancer_ (cont.)
+
+Class oral presentations (cont.)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Final version of essay 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
