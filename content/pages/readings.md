@@ -572,7 +572,7 @@ Butler, S. Chapters 1, 7, 9–12, 15, and 17 in _Erewhon_. Indypublish, 2008. IS
 
 5\. [_Image archive about eugenics in America_](http://www.eugenicsarchive.org/eugenics/list3.pl)
 
-6\. _![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Evolutionary art (PDF - 5.12MB)](http://www.cs.bham.ac.uk/~rjh/courses/NatureInspiredDesign/2009-10/StudentWork/Group4/EvoArt.pdf)  
+6\. _[Evolutionary art (PDF - 5.12MB)](http://www.cs.bham.ac.uk/~rjh/courses/NatureInspiredDesign/2009-10/StudentWork/Group4/EvoArt.pdf)  
 _
 
 ### Some reading topics
